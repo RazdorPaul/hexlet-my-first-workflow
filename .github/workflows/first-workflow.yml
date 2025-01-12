@@ -1,5 +1,5 @@
 # file: workflows/first-workflow.yml
-name: show-directory
+name: first-workflow
 # on – определяет события, которые запускают воркфлоу
 on: push
 jobs:
